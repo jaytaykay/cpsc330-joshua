@@ -5,7 +5,8 @@
 To pull changes from the original repo, use the new git alias in the branch you want to pull to.
 
 ```
-git pullupstream
+~/Documents/Github_Repositories/UBC/cpsc330-2023W2 (student/joshua-tay)
+$ git pullupstream
 ```
 
 ## Introduction
